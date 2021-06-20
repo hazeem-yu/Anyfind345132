@@ -1,27 +1,147 @@
 {
-  "posts":[
+  "viewpager": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/fe_im1.jpg?resize=600%2C600"
+    },
+    {
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/fe_im2.jpg?resize=600%2C600"
+    },
+    {
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/fe_im3.jpg?resize=600%2C600"
+    },
+    {
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/fe_im4.jpg?resize=600%2C600"
+    },
+    {
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/fe_im5.jpg?resize=600%2C600"
+    },
+    {
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/fe_im6.jpg?resize=600%2C600"
     }
   ],
-  "comments" : [
+  "slider": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/sl_im1.jpg?resize=600%2C600"
     },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/sl_im2.jpg?resize=600%2C600"
     },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/sl_im3.jpg?resize=600%2C600"
+    },
+    {
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/sl_im4.jpg?resize=600%2C600"
+    },
+    {
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/sl_im5.jpg?resize=600%2C600"
+    },
+    {
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/sl_im6.jpg?resize=600%2C600"
+    },
+    {
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/sl_im7.jpg?resize=600%2C600"
+    },
+    {
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/sl_im8.jpg?resize=600%2C600"
+    },
+    {
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/sl_im9.jpg?resize=600%2C600"
     }
-    
+  ],
+  "Noodles": [
+    {
+      "name": "Potatoes",
+      "price": "100/=",
+      "unit": "1 Unit",
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/flo_1.jpeg?resize=300%2C300"
+    },
+    {
+      "name": "Potatoes",
+      "price": "100/=",
+      "unit": "1 Unit",
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/flo_1.jpeg?resize=300%2C300"
+    },
+    {
+      "name": "Potatoes",
+      "price": "100/=",
+      "unit": "1 Unit",
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/flo_1.jpeg?resize=300%2C300"
+    },
+    {
+      "name": "Potatoes",
+      "price": "100/=",
+      "unit": "1 Unit",
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/flo_1.jpeg?resize=300%2C300"
+    },
+    {
+      "name": "Potatoes",
+      "price": "2020-04-11 08:45:06",
+      "unit": "2020-04-11 08:45:06",
+      "image": "https://www.hpb.health.gov.lk/api/get-curren-statistical"
+    }
+  ],
+  "Papdam": [
+     {
+      "name": "Potatoes",
+      "price": "100/=",
+      "unit": "1 Unit",
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/flo_1.jpeg?resize=300%2C300"
+    },
+    {
+      "name": "Potatoes",
+      "price": "100/=",
+      "unit": "1 Unit",
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/flo_1.jpeg?resize=300%2C300"
+    },
+     {
+      "name": "Potatoes",
+      "price": "100/=",
+      "unit": "1 Unit",
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/flo_1.jpeg?resize=300%2C300"
+    },
+    {
+      "name": "Potatoes",
+      "price": "100/=",
+      "unit": "1 Unit",
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/flo_1.jpeg?resize=300%2C300"
+    }
+  ],
+  "Floar": [
+       {
+      "name": "Potatoes",
+      "price": "100/=",
+      "unit": "1 Unit",
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/flo_1.jpeg?resize=300%2C300"
+    },
+    {
+      "name": "Potatoes",
+      "price": "100/=",
+      "unit": "1 Unit",
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/flo_1.jpeg?resize=300%2C300"
+    },
+        {
+      "name": "Potatoes",
+      "price": "100/=",
+      "unit": "1 Unit",
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/flo_1.jpeg?resize=300%2C300"
+    },
+    {
+      "name": "Potatoes",
+      "price": "100/=",
+      "unit": "1 Unit",
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/flo_1.jpeg?resize=300%2C300"
+    },
+        {
+      "name": "Potatoes",
+      "price": "100/=",
+      "unit": "1 Unit",
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/flo_1.jpeg?resize=300%2C300"
+    },
+    {
+      "name": "Potatoes",
+      "price": "100/=",
+      "unit": "1 Unit",
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/flo_1.jpeg?resize=300%2C300"
+    }
   ]
 }
