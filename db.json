@@ -62,38 +62,110 @@
   ],
   "Noodles": [
     {
-      "name": "Potatoes",
-      "price": "100/=",
+      "name": "Takas Instant Noodles (80g) Chicken",
+      "price": "60/=",
       "unit": "1 Unit",
-      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/flo_1.jpeg?resize=300%2C300"
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/nood_1.jpg?resize=160%2C160"
     },
     {
-      "name": "Potatoes",
-      "price": "100/=",
+      "name": "Takas (80g) Biriyani Chicken",
+      "price": "60/=",
       "unit": "1 Unit",
-      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/flo_1.jpeg?resize=300%2C300"
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/nood_2.jpg?resize=160%2C160"
     },
     {
-      "name": "Potatoes",
-      "price": "100/=",
+      "name": "Rice Noodles (350g)",
+      "price": "130/=",
       "unit": "1 Unit",
-      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/flo_1.jpeg?resize=300%2C300"
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/nood_3.jpg?resize=160%2C160"
     },
     {
-      "name": "Potatoes",
-      "price": "100/=",
+      "name": "White Rice Vermicelli (350g)",
+      "price": "160/=",
       "unit": "1 Unit",
-      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/flo_1.jpeg?resize=300%2C300"
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/nood_4.jpg?resize=160%2C160"
     },
     {
-      "name": "Potatoes",
-      "price": "2020-04-11 08:45:06",
-      "unit": "2020-04-11 08:45:06",
-      "image": "https://www.hpb.health.gov.lk/api/get-curren-statistical"
+      "name": "Red Rice Vermicelli (350g)",
+      "price": "160/=",
+      "unit": "1 Unit",
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/nood_5.jpg?resize=160%2C160"
+    },
+    {
+      "name": "Handy Pack (400g)",
+      "price": "190/=",
+      "unit": "1 Unit",
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/nood_6.jpg?resize=160%2C160"
+    },
+    {
+      "name": "Red Handy Pack (400g)",
+      "price": "130/=",
+      "unit": "1 Unit",
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/nood_7.jpg?resize=160%2C160"
+    },
+    {
+      "name": "Wok Noodles (250g)",
+      "price": "80/=",
+      "unit": "1 Unit",
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/nood_8.jpeg?resize=160%2C160"
+    },
+    {
+      "name": "Vegetable Noodles (300g)",
+      "price": "160/=",
+      "unit": "1 Unit",
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/nood_9.jpg?resize=160%2C160"
+    },
+    {
+      "name": "Noodles (300g) Chicken/Veg",
+      "price": "160/=",
+      "unit": "1 Unit",
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/nood_10.jpg?resize=160%2C160"
+    },
+    {
+      "name": "Stick Noodles (400g)",
+      "price": "135/=",
+      "unit": "1 Unit",
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/nood_11.jpg?resize=160%2C160"
+    },
+    {
+      "name": "Takas (400g)",
+      "price": "175/=",
+      "unit": "1 Unit",
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/nood_12.jpg?resize=160%2C160"
+    },
+    {
+      "name": "Red Takas (400g)",
+      "price": "180/=",
+      "unit": "1 Unit",
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/nood_13.jpg?resize=160%2C160"
+    },
+    {
+      "name": "Chicken Soya (90g)",
+      "price": "90/=",
+      "unit": "1 Unit",
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/nood_14.jpg?resize=160%2C160"
+    },
+    {
+      "name": "Curry Soya (90g)",
+      "price": "85/=",
+      "unit": "1 Unit",
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/nood_15.jpg?resize=160%2C160"
+    },
+    {
+      "name": "Chicken Soya (50g)",
+      "price": "40/=",
+      "unit": "1 Unit",
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/nood_16.jpg?resize=160%2C160"
+    },
+    {
+      "name": "Curry Soya (50g)",
+      "price": "40/=",
+      "unit": "1 Unit",
+      "image": "https://anyfindstore567324.files.wordpress.com/2021/06/nood_17.jpg?resize=160%2C160"
     }
   ],
   "Papdam": [
-     {
+    {
       "name": "Potatoes",
       "price": "100/=",
       "unit": "1 Unit",
@@ -105,7 +177,7 @@
       "unit": "1 Unit",
       "image": "https://anyfindstore567324.files.wordpress.com/2021/06/flo_1.jpeg?resize=300%2C300"
     },
-     {
+    {
       "name": "Potatoes",
       "price": "100/=",
       "unit": "1 Unit",
@@ -119,7 +191,7 @@
     }
   ],
   "Floar": [
-       {
+    {
       "name": "Potatoes",
       "price": "100/=",
       "unit": "1 Unit",
@@ -131,7 +203,7 @@
       "unit": "1 Unit",
       "image": "https://anyfindstore567324.files.wordpress.com/2021/06/flo_1.jpeg?resize=300%2C300"
     },
-        {
+    {
       "name": "Potatoes",
       "price": "100/=",
       "unit": "1 Unit",
@@ -143,7 +215,7 @@
       "unit": "1 Unit",
       "image": "https://anyfindstore567324.files.wordpress.com/2021/06/flo_1.jpeg?resize=300%2C300"
     },
-        {
+    {
       "name": "Potatoes",
       "price": "100/=",
       "unit": "1 Unit",
