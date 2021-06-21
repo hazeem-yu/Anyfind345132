@@ -60,6 +60,316 @@
       "image": "https://anyfindstore567324.files.wordpress.com/2021/06/sl_im9.jpg?resize=600%2C600"
     }
   ],
+    "Vagitables": [
+        {
+            "name": "Potatoes",
+            "unit": "100g",
+            "price": "26/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/vag_1.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Tomatoes",
+            "unit": "100g",
+            "price": "40/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/vag_2.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Carrot",
+            "unit": "100g",
+            "price": "38/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/vag_3.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Leaks",
+            "unit": "100g",
+            "price": "32/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/vag_4.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Beetroot",
+            "unit": "100g",
+            "price": "27/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/vag_5.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Onions (Big)",
+            "unit": "100g",
+            "price": "20/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/vag_6.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Curry Leaves",
+            "unit": "100g",
+            "price": "13/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/vag_7.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Garlic",
+            "unit": "100g",
+            "price": "65/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/vag_8.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Bean (Green)",
+            "unit": "100g",
+            "price": "48/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/vag_9.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Ladies Fingers",
+            "unit": "100g",
+            "price": "27/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/vag_10.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Pumpkin",
+            "unit": "100g",
+            "price": "9/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/vag_11.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Snack Guard",
+            "unit": "100g",
+            "price": "33/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/vag_12.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Lime",
+            "unit": "100g",
+            "price": "39/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/vag_13.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Brinjal",
+            "unit": "100g",
+            "price": "38/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/vag_14.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Cucumber (White)",
+            "unit": "100g",
+            "price": "21/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/vag_15.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Cabbage",
+            "unit": "100g",
+            "price": "19/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/vag_16.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Capsicum",
+            "unit": "100g",
+            "price": "54/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/vag_17.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Corn",
+            "unit": "1 Unit",
+            "price": "56/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/vag_18.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Manioc",
+            "unit": "100g",
+            "price": "17/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/vag_19.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Onion Leaves",
+            "unit": "100g",
+            "price": "63/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/vag_20.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Ash Plants",
+            "unit": "100g",
+            "price": "15/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/vag_21.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Bitter Gourd",
+            "unit": "100g",
+            "price": "42/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/vag_22.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Corriander Leaves",
+            "unit": "100g",
+            "price": "103/",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/vag_23.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Dambala",
+            "unit": "100g",
+            "price": "42/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/vag_24.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Ginger",
+            "unit": "100g",
+            "price": "48/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/vag_25.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Green Chillies",
+            "unit": "100g",
+            "price": "50/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/vag_26.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Knor Khol",
+            "unit": "100g",
+            "price": "27/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/vag_27.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Beans (Long)",
+            "unit": "100g",
+            "price": "44/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/vag_28.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Plantain Flower",
+            "unit": "100g",
+            "price": "13/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/vag_29.jpeg?resize=560%2C560"
+        },
+        {
+            "name": "Raddish",
+            "unit": "100g",
+            "price": "32/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/vag_30.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Onion (Small)",
+            "unit": "100g",
+            "price": "55/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/vag_31.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Sweet Potatoes",
+            "unit": "100g",
+            "price": "28/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/vag_32.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Ribbed Gourd",
+            "unit": "100g",
+            "price": "42/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/vag_33.jpg?resize=560%2C560"
+        }
+    ],
+    "Fish-meat":[
+        {
+            "name": "Chicken",
+            "unit": "1kg",
+            "price": "600/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/fish_1.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Beef",
+            "unit": "1kg",
+            "price": "1,200/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/fish_2.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Mutton",
+            "unit": "1kg",
+            "price": "1,900/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/fish_3.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Lamb",
+            "unit": "1kg",
+            "price": "",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/fish_4.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Dello (Big)",
+            "unit": "1kg",
+            "price": "1,200/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/fish_5.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Prawns",
+            "unit": "1kg",
+            "price": "1,300/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/fish_6.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Crab",
+            "unit": "1kg",
+            "price": "1,200/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/fish_7.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Kumbalawa",
+            "unit": "1kg",
+            "price": "900/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/fish_8.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Bolayan (Linna)",
+            "unit": "1kg",
+            "price": "750/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/fish_9.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Kalamiya (Lo-Messa)",
+            "unit": "1kg",
+            "price": "850/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/fish_10.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Thalapath",
+            "unit": "1kg",
+            "price": "1,450/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/fish_11.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Kelawalla",
+            "unit": "1kg",
+            "price": "1,250/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/fish_12.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Saalaya",
+            "unit": "1kg",
+            "price": "400/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/fish_13.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Gal Maalu (Slice/Cubes)",
+            "unit": "1kg",
+            "price": "1,300/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/fish_14.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Dello (Big)",
+            "unit": "1kg",
+            "price": "1,200/=",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/fish_15.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Katta Karawala",
+            "unit": "1kg",
+            "price": "",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/fish_16.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Haal Messo",
+            "unit": "1kg",
+            "price": "",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/fish_17.jpg?resize=560%2C560"
+        },
+        {
+            "name": "Thalapath Karawala",
+            "unit": "1kg",
+            "price": "",
+            "image": "https://anyfindstore567324.files.wordpress.com/2021/06/fish_18.jpg?resize=560%2C560"
+        }
+      ],
   "Noodles": [
     {
       "name": "Takas Instant Noodles (80g) Chicken",
