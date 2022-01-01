@@ -71,212 +71,279 @@
   ],
   "Vagitables": [
     {
+      "ID": "1001",
       "name": "Potatoes",
-      "unit": "100g",
-      "price": "26/=",
+      "type": "grams",
+      "unit": "100",
+      "price": "26",
       "image": "https://i1.wp.com/anyfindstore567324.files.wordpress.com/2021/06/vag_1.jpg?ssl=1"
     },
     {
+      "ID": "1002",
       "name": "Tomatoes",
-      "unit": "100g",
-      "price": "40/=",
+      "type": "grams",
+      "unit": "100",
+      "price": "40",
       "image": "https://i0.wp.com/anyfindstore567324.files.wordpress.com/2021/06/vag_2.jpg?ssl=1"
     },
     {
+      "ID": "1003",
       "name": "Carrot",
-      "unit": "100g",
-      "price": "38/=",
+      "type": "grams",
+      "unit": "100",
+      "price": "38",
       "image": "https://i2.wp.com/anyfindstore567324.files.wordpress.com/2021/06/vag_3.jpg?ssl=1"
     },
     {
+      "ID": "1004",
       "name": "Leaks",
-      "unit": "100g",
-      "price": "32/=",
+      "type": "grams",
+      "unit": "100",
+      "price": "32",
       "image": "https://i2.wp.com/anyfindstore567324.files.wordpress.com/2021/06/vag_4.jpg?ssl=1"
     },
     {
+      "ID": "1005",
       "name": "Beetroot",
-      "unit": "100g",
-      "price": "27/=",
+      "type": "grams",
+      "unit": "100",
+      "price": "27",
       "image": "https://i2.wp.com/anyfindstore567324.files.wordpress.com/2021/06/vag_5.jpg?ssl=1"
     },
     {
+      "ID": "1006",
       "name": "Onions (Big)",
-      "unit": "100g",
-      "price": "20/=",
+      "type": "grams",
+      "unit": "100",
+      "price": "20",
       "image": "https://i2.wp.com/anyfindstore567324.files.wordpress.com/2021/06/vag_6.jpg?ssl=1"
     },
     {
+      "ID": "1007",
       "name": "Curry Leaves",
-      "unit": "100g",
-      "price": "13/=",
+      "type": "grams",
+      "unit": "100",
+      "price": "13",
       "image": "https://i0.wp.com/anyfindstore567324.files.wordpress.com/2021/06/vag_7.jpg?ssl=1"
     },
     {
+      "ID": "1008",
       "name": "Garlic",
-      "unit": "100g",
-      "price": "65/=",
+      "type": "grams",
+      "unit": "100",
+      "price": "65",
       "image": "https://i2.wp.com/anyfindstore567324.files.wordpress.com/2021/06/vag_8.jpg?ssl=1"
     },
     {
+      "ID": "1009",
       "name": "Bean (Green)",
-      "unit": "100g",
-      "price": "48/=",
+      "type": "grams",
+      "unit": "100",
+      "price": "48",
       "image": "https://i1.wp.com/anyfindstore567324.files.wordpress.com/2021/06/vag_9.jpg?ssl=1"
     },
     {
+      "ID": "1010",
       "name": "Ladies Fingers",
-      "unit": "100g",
-      "price": "27/=",
+      "type": "grams",
+      "unit": "100",
+      "price": "27",
       "image": "https://i0.wp.com/anyfindstore567324.files.wordpress.com/2021/06/vag_10.jpeg?ssl=1"
     },
     {
+      "ID": "1011",
       "name": "Pumpkin",
-      "unit": "100g",
-      "price": "9/=",
+      "type": "grams",
+      "unit": "100",
+      "price": "9",
       "image": "https://i1.wp.com/anyfindstore567324.files.wordpress.com/2021/06/vag_11.jpg?ssl=1"
     },
     {
+      "ID": "1012",
       "name": "Snack Guard",
-      "unit": "100g",
-      "price": "33/=",
+      "type": "grams",
+      "unit": "100",
+      "price": "33",
       "image": "https://i1.wp.com/anyfindstore567324.files.wordpress.com/2021/06/vag_12.jpg?ssl=1"
     },
     {
+      "ID": "1013",
       "name": "Lime",
-      "unit": "100g",
-      "price": "39/=",
+      "type": "grams",
+      "unit": "100",
+      "price": "39",
       "image": "https://i0.wp.com/anyfindstore567324.files.wordpress.com/2021/06/vag_13.jpg?ssl=1"
     },
     {
+      "ID": "1014",
       "name": "Brinjal",
-      "unit": "100g",
-      "price": "38/=",
+      "type": "grams",
+      "unit": "100",
+      "price": "38",
       "image": "https://i2.wp.com/anyfindstore567324.files.wordpress.com/2021/06/vag_14.jpg?ssl=1"
     },
     {
+      "ID": "1015",
       "name": "Cucumber (White)",
-      "unit": "100g",
-      "price": "21/=",
+      "type": "grams",
+      "unit": "100",
+      "price": "21",
       "image": "https://i2.wp.com/anyfindstore567324.files.wordpress.com/2021/06/vag_15.jpg?ssl=1"
     },
     {
+      "ID": "1016",
       "name": "Cabbage",
-      "unit": "100g",
-      "price": "19/=",
+      "type": "grams",
+      "unit": "100",
+      "price": "19",
       "image": "https://i1.wp.com/anyfindstore567324.files.wordpress.com/2021/06/vag_16.jpg?ssl=1"
     },
     {
+      "ID": "1017",
       "name": "Capsicum",
-      "unit": "100g",
-      "price": "54/=",
+      "type": "grams",
+      "unit": "100",
+      "price": "54",
       "image": "https://i1.wp.com/anyfindstore567324.files.wordpress.com/2021/06/vag_17.jpg?ssl=1"
     },
     {
+      "ID": "1018",
       "name": "Corn",
-      "unit": "1 Unit",
-      "price": "56/=",
+      "type": "unit",
+      "unit": "1",
+      "price": "56",
       "image": "https://i0.wp.com/anyfindstore567324.files.wordpress.com/2021/06/vag_18.jpg?ssl=1"
     },
     {
+      "ID": "1019",
       "name": "Manioc",
-      "unit": "100g",
-      "price": "17/=",
+      "type": "grams",
+      "unit": "100",
+      "price": "17",
       "image": "https://i2.wp.com/anyfindstore567324.files.wordpress.com/2021/06/vag_19.jpg?ssl=1"
     },
     {
       "name": "Onion Leaves",
-      "unit": "100g",
-      "price": "63/=",
+      "type": "grams",
+      "unit": "100",
+      "price": "63",
       "image": "https://i1.wp.com/anyfindstore567324.files.wordpress.com/2021/06/vag_20.jpg?ssl=1"
     },
     {
+      "ID": "1020",
       "name": "Ash Plants",
-      "unit": "100g",
-      "price": "15/=",
+      "type": "grams",
+      "unit": "100",
+      "price": "15",
       "image": "https://i1.wp.com/anyfindstore567324.files.wordpress.com/2021/06/vag_21.jpg?ssl=1"
     },
     {
+      "ID": "1021",
       "name": "Bitter Gourd",
-      "unit": "100g",
-      "price": "42/=",
+      "type": "grams",
+      "unit": "100",
+      "price": "42",
       "image": "https://i2.wp.com/anyfindstore567324.files.wordpress.com/2021/06/vag_22.jpg?ssl=1"
     },
     {
+      "ID": "1022",
       "name": "Corriander Leaves",
-      "unit": "100g",
-      "price": "103/",
+      "type": "grams",
+      "unit": "100",
+      "price": "103",
       "image": "https://i1.wp.com/anyfindstore567324.files.wordpress.com/2021/06/vag_23.jpg?ssl=1"
     },
     {
+      "ID": "1023",
       "name": "Dambala",
-      "unit": "100g",
-      "price": "42/=",
+      "type": "grams",
+      "unit": "100",
+      "price": "42",
       "image": "https://i1.wp.com/anyfindstore567324.files.wordpress.com/2021/06/vag_24.jpg?ssl=1"
     },
     {
+      "ID": "1024",
       "name": "Ginger",
+      "type": "grams",
       "unit": "100g",
-      "price": "48/=",
+      "price": "48",
       "image": "https://i0.wp.com/anyfindstore567324.files.wordpress.com/2021/06/vag_25.jpg?ssl=1"
     },
     {
+      "ID": "1025",
       "name": "Green Chillies",
-      "unit": "100g",
-      "price": "50/=",
+      "type": "grams",
+      "unit": "100",
+      "price": "50",
       "image": "https://i1.wp.com/anyfindstore567324.files.wordpress.com/2021/06/vag_26.jpg?ssl=1"
     },
     {
+      "ID": "1026",
       "name": "Knor Khol",
-      "unit": "100g",
-      "price": "27/=",
+      "type": "grams",
+      "unit": "100",
+      "price": "27",
       "image": "https://i1.wp.com/anyfindstore567324.files.wordpress.com/2021/06/vag_27.jpg?ssl=1"
     },
     {
+      "ID": "1027",
       "name": "Beans (Long)",
-      "unit": "100g",
-      "price": "44/=",
+      "type": "grams",
+      "unit": "100",
+      "price": "44",
       "image": "https://i2.wp.com/anyfindstore567324.files.wordpress.com/2021/06/vag_28.jpg?ssl=1"
     },
     {
+      "ID": "1028",
       "name": "Plantain Flower",
-      "unit": "100g",
-      "price": "13/=",
+      "type": "grams",
+      "unit": "100",
+      "price": "13",
       "image": "https://i1.wp.com/anyfindstore567324.files.wordpress.com/2021/06/vag_29.jpeg?ssl=1"
     },
     {
+      "ID": "1029",
       "name": "Raddish",
-      "unit": "100g",
-      "price": "32/=",
+      "type": "grams",
+      "unit": "100",
+      "price": "32",
       "image": "https://i2.wp.com/anyfindstore567324.files.wordpress.com/2021/06/vag_30.jpg?ssl=1"
     },
     {
+      "ID": "1030",
       "name": "Onion (Small)",
-      "unit": "100g",
-      "price": "55/=",
+      "type": "grams",
+      "unit": "100",
+      "price": "55",
       "image": "https://i1.wp.com/anyfindstore567324.files.wordpress.com/2021/06/vag_31.jpg?ssl=1"
     },
     {
+      "ID": "1031",
       "name": "Sweet Potatoes",
-      "unit": "100g",
-      "price": "28/=",
+      "type": "grams",
+      "unit": "100",
+      "price": "28",
       "image": "https://i0.wp.com/anyfindstore567324.files.wordpress.com/2021/06/vag_32.jpg?ssl=1"
     },
     {
+      "ID": "1032",
       "name": "Ribbed Gourd",
-      "unit": "100g",
-      "price": "42/=",
+      "type": "grams",
+      "unit": "100",
+      "price": "42",
       "image": "https://i0.wp.com/anyfindstore567324.files.wordpress.com/2021/06/vag_33.jpg?ssl=1"
     }
   ],
   "Fish-meat": [
     {
+      "ID": "2000",
       "name": "Chicken",
       "unit": "1kg",
       "price": "600/=",
       "image": "https://i0.wp.com/anyfindstore567324.files.wordpress.com/2021/06/fish_1.jpg?ssl=1"
     },
     {
+      "ID": "2001",
       "name": "Beef",
       "unit": "1kg",
       "price": "1,200/=",
