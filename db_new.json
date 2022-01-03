@@ -339,111 +339,145 @@
     {
       "ID": "2000",
       "name": "Chicken",
-      "unit": "1kg",
-      "price": "600/=",
+      "type": "grams",
+      "unit": "1",
+      "price": "600",
       "image": "https://i0.wp.com/anyfindstore567324.files.wordpress.com/2021/06/fish_1.jpg?ssl=1"
     },
     {
       "ID": "2001",
       "name": "Beef",
-      "unit": "1kg",
-      "price": "1,200/=",
+      "type": "grams",
+      "unit": "1",
+      "price": "1200",
       "image": "https://i1.wp.com/anyfindstore567324.files.wordpress.com/2021/06/fish_2.jpg?ssl=1"
     },
     {
+      "ID": "2002",
       "name": "Mutton",
-      "unit": "1kg",
-      "price": "1,900/=",
+      "unit": "1",
+      "type": "grams",
+      "price": "1900",
       "image": "https://i2.wp.com/anyfindstore567324.files.wordpress.com/2021/06/fish_3.jpg?ssl=1"
     },
     {
+      "ID": "2003",
       "name": "Lamb",
-      "unit": "1kg",
-      "price": "",
+      "unit": "1",
+      "type": "grams",
+      "price": "900",
       "image": "https://i2.wp.com/anyfindstore567324.files.wordpress.com/2021/06/fish_4.jpg?ssl=1"
     },
     {
+      "ID": "2004",
       "name": "Dello (Big)",
-      "unit": "1kg",
-      "price": "1,200/=",
+      "unit": "1",
+      "type": "grams",
+      "price": "1200",
       "image": "https://i2.wp.com/anyfindstore567324.files.wordpress.com/2021/06/fish_5.jpg?ssl=1"
     },
     {
+      "ID": "2005",
       "name": "Prawns",
-      "unit": "1kg",
-      "price": "1,300/=",
+      "unit": "1",
+      "type": "grams",
+      "price": "1300",
       "image": "https://i1.wp.com/anyfindstore567324.files.wordpress.com/2021/06/fish_6.jpg?ssl=1"
     },
     {
+      "ID": "2006",
       "name": "Crab",
-      "unit": "1kg",
-      "price": "1,200/=",
+      "unit": "1",
+      "type": "grams",
+      "price": "1200",
       "image": "https://i2.wp.com/anyfindstore567324.files.wordpress.com/2021/06/fish_7.jpg?ssl=1"
     },
     {
+      "ID": "2007",
       "name": "Kumbalawa",
-      "unit": "1kg",
-      "price": "900/=",
+      "unit": "1",
+      "type": "grams",
+      "price": "900",
       "image": "https://i1.wp.com/anyfindstore567324.files.wordpress.com/2021/06/fish_8.jpg?ssl=1"
     },
     {
+      "ID": "2008",
       "name": "Bolayan (Linna)",
-      "unit": "1kg",
-      "price": "750/=",
+      "unit": "1",
+      "type": "grams",
+      "price": "750",
       "image": "https://i2.wp.com/anyfindstore567324.files.wordpress.com/2021/06/fish_9.jpg?ssl=1"
     },
     {
+      "ID": "2009",
       "name": "Kalamiya (Lo-Messa)",
-      "unit": "1kg",
-      "price": "850/=",
+      "unit": "1",
+      "type": "grams",
+      "price": "850",
       "image": "https://i2.wp.com/anyfindstore567324.files.wordpress.com/2021/06/fish_10.jpg?ssl=1"
     },
     {
+      "ID": "2010",
       "name": "Thalapath",
-      "unit": "1kg",
-      "price": "1,450/=",
+      "unit": "g",
+      "type": "grams",
+      "price": "1450",
       "image": "https://i2.wp.com/anyfindstore567324.files.wordpress.com/2021/06/fish_11.jpg?ssl=1"
     },
     {
+      "ID": "2011",
       "name": "Kelawalla",
-      "unit": "1kg",
-      "price": "1,250/=",
+      "unit": "1",
+      "type": "grams",
+      "price": "1250",
       "image": "https://i1.wp.com/anyfindstore567324.files.wordpress.com/2021/06/fish_12.jpg?ssl=1"
     },
     {
+      "ID": "2012",
       "name": "Saalaya",
-      "unit": "1kg",
-      "price": "400/=",
+      "unit": "1",
+      "type": "grams",
+      "price": "400",
       "image": "https://i2.wp.com/anyfindstore567324.files.wordpress.com/2021/06/fish_13.jpg?ssl=1"
     },
     {
+      "ID": "2013",
       "name": "Gal Maalu (Slice/Cubes)",
-      "unit": "1kg",
-      "price": "1,300/=",
+      "unit": "1",
+      "type": "grams",
+      "price": "1300",
       "image": "https://i0.wp.com/anyfindstore567324.files.wordpress.com/2021/06/fish_14.jpg?ssl=1"
     },
     {
+      "ID": "2014",
       "name": "Dello (Big)",
-      "unit": "1kg",
-      "price": "1,200/=",
+      "unit": "1",
+      "type": "grams",
+      "price": "1200",
       "image": "https://i1.wp.com/anyfindstore567324.files.wordpress.com/2021/06/fish_15.jpg?ssl=1"
     },
     {
+      "ID": "2015",
       "name": "Katta Karawala",
-      "unit": "1kg",
-      "price": "",
+      "unit": "1",
+      "type": "grams",
+      "price": "800",
       "image": "https://i1.wp.com/anyfindstore567324.files.wordpress.com/2021/06/fish_16.jpg?ssl=1"
     },
     {
+      "ID": "2016",
       "name": "Haal Messo",
-      "unit": "1kg",
-      "price": "",
+      "unit": "1",
+      "type": "grams",
+      "price": "780",
       "image": "https://i1.wp.com/anyfindstore567324.files.wordpress.com/2021/06/fish_17.jpg?ssl=1"
     },
     {
+      "ID": "2017",
       "name": "Thalapath Karawala",
-      "unit": "1kg",
-      "price": "",
+      "unit": "1",
+      "type": "grams",
+      "price": "980",
       "image": "https://i0.wp.com/anyfindstore567324.files.wordpress.com/2021/06/fish_18.jpg?ssl=1"
     }
   ],
