@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "name": "Suresh Dasari",
+      "App_1": "true",
       "designation": "Team Leader",
       "location": "Hyderabad"
     },
